@@ -5,7 +5,19 @@
 ## Технологии
 - Java 21
 
-## День 1
+## Прогресс
+
+### День 1 ✅
 - ✅ Установка Java
-- Первая программа Hello World
-- Изучение базового синтаксиса
+- ✅ Hello World
+- ✅ Переменные и типы данных
+- ✅ Условия (if-else)
+- ✅ Циклы (for, while)
+- ✅ Первый прототип EventReminder
+
+## Как запустить
+```bash
+cd src
+javac EventReminder.java
+java EventReminder
+```
